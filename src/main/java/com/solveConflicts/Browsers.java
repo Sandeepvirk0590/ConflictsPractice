@@ -4,6 +4,7 @@ public enum Browsers {
 	
 	CHROME("chrome"),
     FIREFOX("firefox"),
+    OPERA("Opera"),
     INTERNET_EXPLORER("ie"),
     EDGE("edge");
 
